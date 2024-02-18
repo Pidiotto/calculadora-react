@@ -22,6 +22,10 @@ Este é meu primeiro contato com React e foi muito interessante desenvolver esta
 - GitHub
 - JSON
 
+## Print
+
+![Calculadora React](https://github.com/Pidiotto/calculadora-react/raw/main/print.png)
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema.
